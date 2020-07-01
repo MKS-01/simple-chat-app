@@ -1,3 +1,3 @@
 # SIMPLE CHAT APP
 
-Simple Chat using SOCKET.io
+Simple Chat using socket.io
